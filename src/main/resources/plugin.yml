@@ -1,0 +1,13 @@
+name: Ticketing
+version: '${version}'
+main: space.hwahyang.ticketing.Ticketing
+api-version: 1.19
+prefix: Ticketing
+load: STARTUP
+author: HwaHyang
+description: Time-limit Connection Plugin
+website: https://hwahyang.space
+permissions:
+  ticketing.bypass:
+    description: Bypass connection limit
+    default: op
