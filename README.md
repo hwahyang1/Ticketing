@@ -1,5 +1,5 @@
 # Ticketing
-MCJE 1.19.4
+MCJE 1.20
 
 JDK 19
 
